@@ -1,5 +1,5 @@
 // src/modules/auth/AuthContext.jsx
-/* eslint react-refresh/only-export-components: "off" */  // opcional: silencia warning
+/* eslint react-refresh/only-export-components: "off" */ 
 
 import React, { createContext, useContext, useEffect, useMemo, useState } from "react";
 import api from "../../shared/api.js";
